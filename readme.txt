@@ -60,4 +60,4 @@ There're some hadith numbering and number missing issues in https://github.com/S
 4 - AbuDaud
 5 - Tirmizi
 
-Chapter, PreviousChapter, Number and Comment colums explains the issue.
+Chapter, PreviousChapter, Number and Comment columns explains the issue.
