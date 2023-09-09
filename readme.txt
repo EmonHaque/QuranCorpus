@@ -1,5 +1,5 @@
 a .net 7 WPF application, for research and education, with resources from Tanzil.net and corpus.quran.com
-There're some hadith numbering and number missing issues as of 09 September 2023, here's a summary
+There're some hadith numbering and number missing issues in https://github.com/ShathaTm/LK-Hadith-Corpus as of 09 September 2023, I haven't modified the content so the application has same issue. Here's a summary:
 
 
 +------+---------+-----------------+--------+-------+------------+--------------------------------------------------------------------------------------------------------+
