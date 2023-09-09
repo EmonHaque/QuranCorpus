@@ -59,3 +59,5 @@ There're some hadith numbering and number missing issues as of 09 September 2023
 3 - Nasai
 4 - AbyDaud
 5 - Tirmizi
+
+Chapter, PreviousChapter, Number and Comment colums explains the issue.
