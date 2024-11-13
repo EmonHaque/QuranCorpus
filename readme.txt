@@ -1,4 +1,4 @@
-a .net 8 WPF application, for research and education, with resources from Tanzil.net and corpus.quran.com. Zipped with WinRAR "best" compression method to make it <25MB.
+a .net 9 WPF application, for research and education, with resources from Tanzil.net and corpus.quran.com. Zipped with WinRAR "best" compression method to make it <25MB.
 There're some hadith numbering and number missing issues in https://github.com/ShathaTm/LK-Hadith-Corpus as of 09 September 2023, I haven't modified the content so the application has same issue. Here's a summary:
 
 
